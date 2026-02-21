@@ -1,11 +1,5 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
-
 # # Pooja-Vidhi-for-Hindus
 It is for all beginners who want to follow a routine and then develop their own from there in the spiritual path.
-
-Final project for the Building AI course
 
 ## Summary
 
@@ -160,13 +154,6 @@ This approach focuses on simplicity and accessibility:
 
 ---
 
-This solution provides a clear, practical, and sustainable way for anyone to begin and maintain a meaningful spiritual routine in modern life.
-
-main()
-```
-
-
-## Challenges
 
 ## Challenges and Limitations
 
@@ -180,8 +167,6 @@ Ethically, the project aims to respect the diversity and cultural significance o
 
 Overall, this solution helps reduce confusion and make spiritual practice more accessible, while recognizing its limitations as an introductory guide rather than a complete spiritual authority.
 
-## What next?
-
 ## Future Growth and Support Needed
 
 This project has the potential to grow into a comprehensive digital platform for beginner-friendly spiritual guidance. It could expand to include guided audio and video pooja demonstrations, mantra pronunciation support, festival-specific routines, and personalized spiritual paths based on user preferences and experience levels. A mobile app could provide daily reminders, progress tracking, and structured learning to help users build consistent habits.
@@ -190,7 +175,6 @@ To achieve this growth, skills in mobile and web development, user experience (U
 
 Assistance with content translation would make the platform available in multiple languages, helping reach a wider audience globally. With the right technical, cultural, and community support, this project could become a trusted and accessible spiritual companion for modern users.
  
-
 
 ## Acknowledgments
 
